@@ -28,7 +28,9 @@ Thumbs.db
 
 # Language demos
 language_demos/**
-scripts/**
+
+# Source files (themes are pre-built)
+src/**
 
 # Keep these files in the package:
 # - README.md

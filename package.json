@@ -2,7 +2,7 @@
   "name": "cyberdeck",
   "displayName": "Cyberdeck",
   "description": "A retro-futuristic neural interface for the modern code cowboy. Cyberpunk-inspired dark theme with neon accents, semantic highlighting, and first-class support for TypeScript, Go, Rust, Python, and Java.",
-  "version": "1.1.2",
+  "version": "1.0.0",
   "publisher": "ex1tium",
   "author": {
     "name": "ex1tium"
@@ -11,11 +11,11 @@
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ex1tium/cyberdeck-2025_vscode_theme"
+    "url": "https://github.com/ex1tium/cyberdeck-vscode-themes"
   },
-  "homepage": "https://github.com/ex1tium/cyberdeck-2025_vscode_theme#readme",
+  "homepage": "https://github.com/ex1tium/cyberdeck-vscode-themes#readme",
   "bugs": {
-    "url": "https://github.com/ex1tium/cyberdeck-2025_vscode_theme/issues"
+    "url": "https://github.com/ex1tium/cyberdeck-vscode-themes/issues"
   },
   "keywords": [
     "cyberdeck",
