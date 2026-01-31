@@ -55,6 +55,18 @@ const themes = [
     palette: require("./palettes/amber"),
     filename: "Cyberdeck-Monochrome-Amber-color-theme.json",
   },
+  {
+    palette: require("./palettes/green"),
+    filename: "Cyberdeck-Monochrome-Green-color-theme.json",
+  },
+  {
+    palette: require("./palettes/white"),
+    filename: "Cyberdeck-Monochrome-White-color-theme.json",
+  },
+  {
+    palette: require("./palettes/p7"),
+    filename: "Cyberdeck-Monochrome-P7-color-theme.json",
+  },
   // Add more variants by creating a new palette file and adding it here
 ];
 

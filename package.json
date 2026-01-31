@@ -101,6 +101,21 @@
         "label": "Cyberdeck Monochrome Amber",
         "uiTheme": "vs-dark",
         "path": "./themes/Cyberdeck-Monochrome-Amber-color-theme.json"
+      },
+      {
+        "label": "Cyberdeck Monochrome Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberdeck-Monochrome-Green-color-theme.json"
+      },
+      {
+        "label": "Cyberdeck Monochrome White",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberdeck-Monochrome-White-color-theme.json"
+      },
+      {
+        "label": "Cyberdeck Monochrome P7",
+        "uiTheme": "vs",
+        "path": "./themes/Cyberdeck-Monochrome-P7-color-theme.json"
       }
     ]
   },
