@@ -23,6 +23,31 @@ Cool blue-shifted variant with electric blue tones and cyan accents.
 
 ![Cyberdeck Midnight Theme](screenshots/cyberdeck_midnight.png)
 
+### Cyberdeck Sunset
+Blade Runner inspired warm palette with deep burgundy backgrounds and vibrant orange, coral, and gold accents.
+
+![Cyberdeck Sunset Theme](screenshots/cyberdeck_sunset.png)
+
+### Cyberdeck Trix
+Digital hacker aesthetic with green-tinted backgrounds and classic Matrix green accents.
+
+![Cyberdeck Trix Theme](screenshots/cyberdeck_trix.png)
+
+### Cyberdeck Vapor
+Vaporwave lo-fi aesthetic with dark blue-purple backgrounds and soft pastel accents.
+
+![Cyberdeck Vapor Theme](screenshots/cyberdeck_vapor.png)
+
+### Cyberdeck Chrome
+Corporate dystopia theme with cold blue-gray backgrounds and neon accent pops.
+
+![Cyberdeck Chrome Theme](screenshots/cyberdeck_chrome.png)
+
+### Cyberdeck Sakura
+Japanese cyberpunk aesthetic with cherry blossom pink and jade green accents.
+
+![Cyberdeck Sakura Theme](screenshots/cyberdeck_sakura.png)
+
 ---
 
 ## ✨ Features
@@ -69,7 +94,7 @@ Cool blue-shifted variant with electric blue tones and cyan accents.
 4. Select your variant:
    - Open Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`)
    - Type **"Color Theme"**
-   - Choose **"Cyberdeck"** or **"Cyberdeck Midnight"**
+   - Choose from: **Cyberdeck**, **Cyberdeck Midnight**, **Cyberdeck Sunset**, **Cyberdeck Trix**, **Cyberdeck Vapor**, **Cyberdeck Chrome**, or **Cyberdeck Sakura**
 
 ### From VSIX File
 
@@ -151,8 +176,11 @@ Override colors for any variant in your VS Code settings:
     "[Cyberdeck]": {
       "editor.background": "#0f0a15"
     },
-    "[Cyberdeck Midnight]": {
-      "editor.background": "#080c14"
+    "[Cyberdeck Sunset]": {
+      "editor.background": "#150810"
+    },
+    "[Cyberdeck Trix]": {
+      "editor.background": "#080a08"
     }
   }
 }
