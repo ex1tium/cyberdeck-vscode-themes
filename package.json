@@ -96,6 +96,11 @@
         "label": "Cyberdeck Fami",
         "uiTheme": "vs",
         "path": "./themes/Cyberdeck-Fami-color-theme.json"
+      },
+      {
+        "label": "Cyberdeck Monochrome Amber",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberdeck-Monochrome-Amber-color-theme.json"
       }
     ]
   },

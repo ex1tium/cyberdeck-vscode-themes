@@ -51,6 +51,10 @@ const themes = [
     palette: require("./palettes/fami"),
     filename: "Cyberdeck-Fami-color-theme.json",
   },
+  {
+    palette: require("./palettes/amber"),
+    filename: "Cyberdeck-Monochrome-Amber-color-theme.json",
+  },
   // Add more variants by creating a new palette file and adding it here
 ];
 
