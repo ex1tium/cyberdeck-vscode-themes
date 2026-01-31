@@ -141,6 +141,11 @@
         "label": "Cyberdeck Akira",
         "uiTheme": "vs-dark",
         "path": "./themes/Cyberdeck-Akira-color-theme.json"
+      },
+      {
+        "label": "Cyberdeck Tron",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberdeck-Tron-color-theme.json"
       }
     ]
   },

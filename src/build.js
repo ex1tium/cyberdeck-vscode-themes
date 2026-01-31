@@ -87,6 +87,10 @@ const themes = [
     palette: require("./palettes/akira"),
     filename: "Cyberdeck-Akira-color-theme.json",
   },
+  {
+    palette: require("./palettes/tron"),
+    filename: "Cyberdeck-Tron-color-theme.json",
+  },
   // Add more variants by creating a new palette file and adding it here
 ];
 
