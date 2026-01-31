@@ -47,6 +47,10 @@ const themes = [
     palette: require("./palettes/arcade"),
     filename: "Cyberdeck-Arcade-color-theme.json",
   },
+  {
+    palette: require("./palettes/fami"),
+    filename: "Cyberdeck-Fami-color-theme.json",
+  },
   // Add more variants by creating a new palette file and adding it here
 ];
 

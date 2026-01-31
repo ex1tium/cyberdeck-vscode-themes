@@ -91,6 +91,11 @@
         "label": "Cyberdeck Arcade",
         "uiTheme": "vs-dark",
         "path": "./themes/Cyberdeck-Arcade-color-theme.json"
+      },
+      {
+        "label": "Cyberdeck Fami",
+        "uiTheme": "vs",
+        "path": "./themes/Cyberdeck-Fami-color-theme.json"
       }
     ]
   },

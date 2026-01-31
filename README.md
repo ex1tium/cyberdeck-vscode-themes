@@ -58,6 +58,11 @@ Neo-Feudalistic warm lacquer black backgrounds with imperial crimson, jade green
 
 ![Cyberdeck Arcade Theme](screenshots/cyberdeck_arcade.png)
 
+### Cyberdeck Fami (Light)
+Warm cream backgrounds with wine red and controller gold accents inspired by the Famicom. A retro 80s console aesthetic for those who prefer light themes.
+
+![Cyberdeck Fami Theme](screenshots/cyberdeck_fami.png)
+
 ---
 
 ## ✨ Features
@@ -104,7 +109,7 @@ Neo-Feudalistic warm lacquer black backgrounds with imperial crimson, jade green
 4. Select your variant:
    - Open Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`)
    - Type **"Color Theme"**
-   - Choose from: **Cyberdeck**, **Cyberdeck Midnight**, **Cyberdeck Sunset**, **Cyberdeck Trix**, **Cyberdeck Vapor**, **Cyberdeck Chrome**, **Cyberdeck Sakura**, **Cyberdeck Dynasty**, or **Cyberdeck Arcade**
+   - Choose from: **Cyberdeck**, **Cyberdeck Midnight**, **Cyberdeck Sunset**, **Cyberdeck Trix**, **Cyberdeck Vapor**, **Cyberdeck Chrome**, **Cyberdeck Sakura**, **Cyberdeck Dynasty**, **Cyberdeck Arcade**, or **Cyberdeck Fami** (light)
 
 ### From VSIX File
 
