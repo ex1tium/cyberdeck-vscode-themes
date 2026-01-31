@@ -1,9 +1,9 @@
 /**
- * Cyberdeck 2025 - Original Palette
+ * Cyberdeck - Original Palette
  * Retro-futuristic neon cyberpunk colors
  */
 module.exports = {
-  name: "Cyberdeck 2025",
+  name: "Cyberdeck",
   type: "dark", // vs-dark
 
   // ==========================================================================

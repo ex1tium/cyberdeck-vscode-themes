@@ -13,11 +13,11 @@ const buildTheme = require("./base-theme");
 const themes = [
   {
     palette: require("./palettes/cyberdeck"),
-    filename: "Cyberdeck-2025-color-theme.json",
+    filename: "Cyberdeck-color-theme.json",
   },
   {
     palette: require("./palettes/midnight"),
-    filename: "Cyberdeck-2025-Midnight-color-theme.json",
+    filename: "Cyberdeck-Midnight-color-theme.json",
   },
   // Add more variants by creating a new palette file and adding it here
 ];
@@ -31,7 +31,7 @@ if (!fs.existsSync(themesDir)) {
 }
 
 // Build each theme
-console.log("Building Cyberdeck 2025 themes...\n");
+console.log("Building Cyberdeck themes...\n");
 
 themes.forEach(({ palette, filename }) => {
   const theme = buildTheme(palette);

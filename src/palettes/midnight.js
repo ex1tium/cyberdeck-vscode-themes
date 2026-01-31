@@ -1,9 +1,9 @@
 /**
- * Cyberdeck 2025 Midnight - Blue-shifted Variant
+ * Cyberdeck Midnight - Blue-shifted Variant
  * Cool blue tones with electric accents
  */
 module.exports = {
-  name: "Cyberdeck 2025 Midnight",
+  name: "Cyberdeck Midnight",
   type: "dark",
 
   // ==========================================================================
