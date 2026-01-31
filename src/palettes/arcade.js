@@ -44,23 +44,23 @@ module.exports = {
   },
 
   // ==========================================================================
-  // SYNTAX HIGHLIGHTING - Pure arcade neon
+  // SYNTAX HIGHLIGHTING - Pure arcade neon (high saturation, distinct hues)
   // ==========================================================================
   syntax: {
-    function: "#00ffff",    // Electric cyan (the arcade pop!)
-    type: "#b060ff",        // Vibrant purple
-    string: "#ffff00",      // Bright yellow (high score!)
-    builtin: "#40e0ff",     // Soft cyan
-    keyword: "#ff40ff",     // Hot magenta
-    storage: "#ff80c0",     // Pink
-    namespace: "#a060e0",   // Medium purple
-    attribute: "#40e0ff",   // Soft cyan
+    function: "#ffff00",    // Bright yellow (Pac-Man)
+    type: "#00ffff",        // Pure cyan (for types/classes)
+    string: "#cf9cff",      // Soft lavender
+    builtin: "#00ff66",     // Bright green (distinct from function)
+    keyword: "#ff00ff",     // Pure magenta (maximum pop)
+    storage: "#ff6600",     // Hot orange (Donkey Kong vibes)
+    namespace: "#6699ff",   // Periwinkle blue (distinct from cyan)
+    attribute: "#00ccff",   // Sky blue (attributes/decorators)
     comment: "#6050a0",     // Muted purple
     punctuation: "#a090c0", // Light purple-gray
-    property: "#60d0d0",    // Soft teal (distinct from purple types)
-    constant: "#ff20a0",    // Deep pink
-    number: "#ff8040",      // Orange (score display)
-    escape: "#40ffc0",      // Mint green
+    property: "#33ffcc",    // Bright aquamarine (distinct teal)
+    constant: "#ff0066",    // Hot pink/red (arcade red)
+    number: "#ff8800",      // Bright orange (score display)
+    escape: "#ff99ff",      // Light magenta (stands out in strings)
     invalid: "#402050",     // Dark purple
     error: "#ff4040",       // Red
   },
