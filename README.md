@@ -48,6 +48,11 @@ Japanese cyberpunk aesthetic with cherry blossom pink and jade green accents.
 
 ![Cyberdeck Sakura Theme](screenshots/cyberdeck_sakura.png)
 
+### Cyberdeck Dynasty
+Neo-Feudalistic warm lacquer black backgrounds with imperial crimson, jade green, and gold accents inspired by traditional Chinese color palettes.
+
+![Cyberdeck Dynasty Theme](screenshots/cyberdeck_dynasty.png)
+
 ---
 
 ## ✨ Features
@@ -94,7 +99,7 @@ Japanese cyberpunk aesthetic with cherry blossom pink and jade green accents.
 4. Select your variant:
    - Open Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`)
    - Type **"Color Theme"**
-   - Choose from: **Cyberdeck**, **Cyberdeck Midnight**, **Cyberdeck Sunset**, **Cyberdeck Trix**, **Cyberdeck Vapor**, **Cyberdeck Chrome**, or **Cyberdeck Sakura**
+   - Choose from: **Cyberdeck**, **Cyberdeck Midnight**, **Cyberdeck Sunset**, **Cyberdeck Trix**, **Cyberdeck Vapor**, **Cyberdeck Chrome**, **Cyberdeck Sakura**, or **Cyberdeck Dynasty**
 
 ### From VSIX File
 

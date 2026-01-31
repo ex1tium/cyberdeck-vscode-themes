@@ -81,6 +81,11 @@
         "label": "Cyberdeck Sakura",
         "uiTheme": "vs-dark",
         "path": "./themes/Cyberdeck-Sakura-color-theme.json"
+      },
+      {
+        "label": "Cyberdeck Dynasty",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberdeck-Dynasty-color-theme.json"
       }
     ]
   },
