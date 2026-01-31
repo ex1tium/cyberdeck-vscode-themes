@@ -23,15 +23,10 @@ Cool blue-shifted variant with electric blue tones and cyan accents.
 
 ![Cyberdeck Midnight Theme](screenshots/cyberdeck_midnight.png)
 
-### Cyberdeck Sunset
-Blade Runner 2049 inspired warm palette with deep burgundy backgrounds and vibrant orange, coral, and gold accents.
+### Cyberdeck Arcade
+80s arcade cabinet aesthetic with bold neon on deep purple-black. Electric cyan, hot magenta, and bright yellow evoke CRT glow and coin-op nostalgia.
 
-![Cyberdeck Sunset Theme](screenshots/cyberdeck_sunset.png)
-
-### Cyberdeck Trix
-Classic hacker aesthetic with green-tinted backgrounds and Matrix green accents.
-
-![Cyberdeck Trix Theme](screenshots/cyberdeck_trix.png)
+![Cyberdeck Arcade Theme](screenshots/cyberdeck_arcade.png)
 
 ### Cyberdeck Vapor
 Vaporwave lo-fi aesthetic with dark blue-purple backgrounds and soft pastel accents.
@@ -43,6 +38,16 @@ Corporate sterilized theme with cold blue-gray backgrounds and neon accent pops.
 
 ![Cyberdeck Chrome Theme](screenshots/cyberdeck_chrome.png)
 
+### Cyberdeck Sunset
+Blade Runner 2049 inspired warm palette with deep burgundy backgrounds and vibrant orange, coral, and gold accents.
+
+![Cyberdeck Sunset Theme](screenshots/cyberdeck_sunset.png)
+
+### Cyberdeck Trix
+Classic hacker aesthetic with green-tinted backgrounds and Matrix green accents.
+
+![Cyberdeck Trix Theme](screenshots/cyberdeck_trix.png)
+
 ### Cyberdeck Sakura
 Japanese cyberpunk aesthetic with cherry blossom pink and jade green accents.
 
@@ -53,10 +58,6 @@ Neo-Feudalistic warm lacquer black backgrounds with imperial crimson, jade green
 
 ![Cyberdeck Dynasty Theme](screenshots/cyberdeck_dynasty.png)
 
-### Cyberdeck Arcade
-80s arcade cabinet aesthetic with bold neon on deep purple-black. Electric cyan, hot magenta, and bright yellow evoke CRT glow and coin-op nostalgia.
-
-![Cyberdeck Arcade Theme](screenshots/cyberdeck_arcade.png)
 
 ### Cyberdeck Fami (Light)
 Warm cream backgrounds with wine red and controller gold accents inspired by the Famicom. A retro 80s console aesthetic for those who prefer light themes.
