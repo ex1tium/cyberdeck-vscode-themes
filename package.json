@@ -56,6 +56,31 @@
         "label": "Cyberdeck Midnight",
         "uiTheme": "vs-dark",
         "path": "./themes/Cyberdeck-Midnight-color-theme.json"
+      },
+      {
+        "label": "Cyberdeck Sunset",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberdeck-Sunset-color-theme.json"
+      },
+      {
+        "label": "Cyberdeck Trix",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberdeck-Trix-color-theme.json"
+      },
+      {
+        "label": "Cyberdeck Vapor",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberdeck-Vapor-color-theme.json"
+      },
+      {
+        "label": "Cyberdeck Chrome",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberdeck-Chrome-color-theme.json"
+      },
+      {
+        "label": "Cyberdeck Sakura",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberdeck-Sakura-color-theme.json"
       }
     ]
   },
