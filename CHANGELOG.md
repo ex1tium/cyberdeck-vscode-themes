@@ -2,6 +2,30 @@
 
 All notable changes to the Cyberdeck theme extension.
 
+## [1.1.0] - 2026-01-31
+
+### Added
+
+**New Dark Themes:**
+- **Cyberdeck 2077**: Night City aesthetic with electric yellow, hot magenta, and neon cyan
+- **Cyberdeck Salvage**: Industrial outlands with weathered teal, bronze, and rust tones
+- **Cyberdeck EVA-01**: Evangelion Unit-01 palette with vibrant purple, fluorescent green, and amber
+- **Cyberdeck Deus Ex**: Human Revolution aesthetic with golden yellow, platinum chrome on near-true-black
+- **Cyberdeck Akira**: Neo-Tokyo 2019 with Akira red, neon cyan, and psychic green
+- **Cyberdeck Tron**: True OLED black void with program cyan and CLU orange
+- **Cyberdeck Monochrome Amber**: Classic amber CRT terminal aesthetic
+- **Cyberdeck Monochrome Green**: Classic green phosphor CRT terminal
+- **Cyberdeck Monochrome White**: High contrast white-on-black terminal
+
+**New Light Themes:**
+- **Cyberdeck Monochrome P7**: Vintage P7 phosphor monochrome CRT inspired
+
+### Changed
+- Updated README with all new theme variants and screenshots
+- Theme count increased from 10 to 20 variants
+
+---
+
 ## [1.0.1] - 2026-01-31
 
 ### Changed
@@ -15,7 +39,7 @@ All notable changes to the Cyberdeck theme extension.
 
 ### Initial Release
 
-Fresh release of Cyberdeck as a theme collection with 10 variants.
+Fresh release of Cyberdeck as a theme collection.
 
 ### Theme Variants
 

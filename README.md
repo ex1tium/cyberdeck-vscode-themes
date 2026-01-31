@@ -9,7 +9,7 @@
 [![Rating](https://img.shields.io/visual-studio-marketplace/r/ex1tium.cyberdeck?style=flat-square&color=f9c80e)](https://marketplace.visualstudio.com/items?itemName=ex1tium.cyberdeck)
 [![License](https://img.shields.io/github/license/ex1tium/cyberdeck-vscode-themes?style=flat-square&color=ff2289)](LICENSE)
 
-**Cyberdeck** is a cyberpunk-inspired dark theme collection for Visual Studio Code featuring deep backgrounds, vibrant neon accents, and comprehensive syntax highlighting. Designed for developers who want an immersive, high-contrast coding experience with modern semantic highlighting support.
+**Cyberdeck** is a 20-theme collection for Visual Studio Code - from neon-soaked cyberpunk to phosphor-glow terminals, iconic anime palettes to retro gaming nostalgia. Deep backgrounds, vibrant accents, and comprehensive syntax highlighting across 30+ languages. Dark and light variants for developers who want their editor to feel as good as it performs.
 
 ---
 
