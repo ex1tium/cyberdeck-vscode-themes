@@ -2,6 +2,15 @@
 
 All notable changes to the Cyberdeck theme extension.
 
+## [1.0.1] - 2026-01-31
+
+### Changed
+- **Cyberdeck Fami**: Updated syntax highlighting with authentic Famicom hardware colors (wine red, controller gold, warm charcoal)
+- Screenshots now hosted on GitHub to reduce extension package size
+- Added migration note for users upgrading from Cyberdeck 2025
+
+---
+
 ## [1.0.0] - 2025-01-31
 
 ### Initial Release
