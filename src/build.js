@@ -19,6 +19,26 @@ const themes = [
     palette: require("./palettes/midnight"),
     filename: "Cyberdeck-Midnight-color-theme.json",
   },
+  {
+    palette: require("./palettes/sunset"),
+    filename: "Cyberdeck-Sunset-color-theme.json",
+  },
+  {
+    palette: require("./palettes/trix"),
+    filename: "Cyberdeck-Trix-color-theme.json",
+  },
+  {
+    palette: require("./palettes/vapor"),
+    filename: "Cyberdeck-Vapor-color-theme.json",
+  },
+  {
+    palette: require("./palettes/chrome"),
+    filename: "Cyberdeck-Chrome-color-theme.json",
+  },
+  {
+    palette: require("./palettes/sakura"),
+    filename: "Cyberdeck-Sakura-color-theme.json",
+  },
   // Add more variants by creating a new palette file and adding it here
 ];
 
