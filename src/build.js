@@ -83,6 +83,10 @@ const themes = [
     palette: require("./palettes/deusex"),
     filename: "Cyberdeck-Deus-Ex-color-theme.json",
   },
+  {
+    palette: require("./palettes/akira"),
+    filename: "Cyberdeck-Akira-color-theme.json",
+  },
   // Add more variants by creating a new palette file and adding it here
 ];
 

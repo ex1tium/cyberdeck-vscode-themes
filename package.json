@@ -136,6 +136,11 @@
         "label": "Cyberdeck Deus Ex",
         "uiTheme": "vs-dark",
         "path": "./themes/Cyberdeck-Deus-Ex-color-theme.json"
+      },
+      {
+        "label": "Cyberdeck Akira",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberdeck-Akira-color-theme.json"
       }
     ]
   },
