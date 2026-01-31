@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Cyberdeck 2025 Release Script
+# Cyberdeck Release Script
 # Usage: ./scripts/release.sh [patch|minor|major|<version>]
 
 set -e
@@ -106,7 +106,7 @@ print_status "  2. Create a GitHub release"
 print_status "  3. Attach the .vsix file"
 print_status ""
 print_status "🔗 Monitor the release at:"
-print_status "   https://github.com/ex1tium/cyberdeck-2025_vscode_theme/actions"
+print_status "   https://github.com/ex1tium/cyberdeck-vscode-themes/actions"
 print_status ""
 print_status "📦 The release will be available at:"
-print_status "   https://github.com/ex1tium/cyberdeck-2025_vscode_theme/releases"
+print_status "   https://github.com/ex1tium/cyberdeck-vscode-themes/releases"
