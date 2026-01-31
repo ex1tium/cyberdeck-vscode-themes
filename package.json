@@ -51,8 +51,17 @@
         "label": "Cyberdeck 2025",
         "uiTheme": "vs-dark",
         "path": "./themes/Cyberdeck-2025-color-theme.json"
+      },
+      {
+        "label": "Cyberdeck 2025 Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberdeck-2025-Midnight-color-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "build": "node src/build.js",
+    "watch": "node src/build.js && echo 'Watching for changes...' && nodemon --watch src -e js --exec 'node src/build.js'"
   },
   "devDependencies": {
     "prettier": "^3.6.2"
