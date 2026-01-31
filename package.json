@@ -121,6 +121,11 @@
         "label": "Cyberdeck 2077",
         "uiTheme": "vs-dark",
         "path": "./themes/Cyberdeck-2077-color-theme.json"
+      },
+      {
+        "label": "Cyberdeck Salvage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberdeck-Salvage-color-theme.json"
       }
     ]
   },

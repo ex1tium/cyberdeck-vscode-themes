@@ -71,6 +71,10 @@ const themes = [
     palette: require("./palettes/2077"),
     filename: "Cyberdeck-2077-color-theme.json",
   },
+  {
+    palette: require("./palettes/salvage"),
+    filename: "Cyberdeck-Salvage-color-theme.json",
+  },
   // Add more variants by creating a new palette file and adding it here
 ];
 
