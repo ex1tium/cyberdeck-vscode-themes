@@ -24,12 +24,12 @@ Cool blue-shifted variant with electric blue tones and cyan accents.
 ![Cyberdeck Midnight Theme](screenshots/cyberdeck_midnight.png)
 
 ### Cyberdeck Sunset
-Blade Runner inspired warm palette with deep burgundy backgrounds and vibrant orange, coral, and gold accents.
+Blade Runner 2049 inspired warm palette with deep burgundy backgrounds and vibrant orange, coral, and gold accents.
 
 ![Cyberdeck Sunset Theme](screenshots/cyberdeck_sunset.png)
 
 ### Cyberdeck Trix
-Digital hacker aesthetic with green-tinted backgrounds and classic Matrix green accents.
+Classic hacker aesthetic with green-tinted backgrounds and Matrix green accents.
 
 ![Cyberdeck Trix Theme](screenshots/cyberdeck_trix.png)
 
@@ -39,7 +39,7 @@ Vaporwave lo-fi aesthetic with dark blue-purple backgrounds and soft pastel acce
 ![Cyberdeck Vapor Theme](screenshots/cyberdeck_vapor.png)
 
 ### Cyberdeck Chrome
-Corporate dystopia theme with cold blue-gray backgrounds and neon accent pops.
+Corporate sterilized theme with cold blue-gray backgrounds and neon accent pops.
 
 ![Cyberdeck Chrome Theme](screenshots/cyberdeck_chrome.png)
 
