@@ -86,6 +86,11 @@
         "label": "Cyberdeck Dynasty",
         "uiTheme": "vs-dark",
         "path": "./themes/Cyberdeck-Dynasty-color-theme.json"
+      },
+      {
+        "label": "Cyberdeck Arcade",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberdeck-Arcade-color-theme.json"
       }
     ]
   },

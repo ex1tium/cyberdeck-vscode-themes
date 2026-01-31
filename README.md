@@ -53,6 +53,11 @@ Neo-Feudalistic warm lacquer black backgrounds with imperial crimson, jade green
 
 ![Cyberdeck Dynasty Theme](screenshots/cyberdeck_dynasty.png)
 
+### Cyberdeck Arcade
+80s arcade cabinet aesthetic with bold neon on deep purple-black. Electric cyan, hot magenta, and bright yellow evoke CRT glow and coin-op nostalgia.
+
+![Cyberdeck Arcade Theme](screenshots/cyberdeck_arcade.png)
+
 ---
 
 ## ✨ Features
@@ -99,7 +104,7 @@ Neo-Feudalistic warm lacquer black backgrounds with imperial crimson, jade green
 4. Select your variant:
    - Open Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`)
    - Type **"Color Theme"**
-   - Choose from: **Cyberdeck**, **Cyberdeck Midnight**, **Cyberdeck Sunset**, **Cyberdeck Trix**, **Cyberdeck Vapor**, **Cyberdeck Chrome**, **Cyberdeck Sakura**, or **Cyberdeck Dynasty**
+   - Choose from: **Cyberdeck**, **Cyberdeck Midnight**, **Cyberdeck Sunset**, **Cyberdeck Trix**, **Cyberdeck Vapor**, **Cyberdeck Chrome**, **Cyberdeck Sakura**, **Cyberdeck Dynasty**, or **Cyberdeck Arcade**
 
 ### From VSIX File
 
