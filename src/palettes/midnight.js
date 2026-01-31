@@ -25,7 +25,7 @@ module.exports = {
   // ==========================================================================
   fg: {
     base: "#c8d4e8",
-    muted: "#a8b8d0",
+    muted: "#8ca8c8",       // Blue-tinted sidebar text
     dimmed: "#4a6090",
     bright: "#e4ecf8",
     soft: "#b8c8e8",

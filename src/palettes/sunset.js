@@ -25,7 +25,7 @@ module.exports = {
   // ==========================================================================
   fg: {
     base: "#f0e0d8",        // Warm cream
-    muted: "#d0b8b0",       // Secondary text
+    muted: "#c8a098",       // Warm rose-tinted sidebar text
     dimmed: "#8a5a60",      // Line numbers, descriptions
     bright: "#fff8f0",      // High contrast text
     soft: "#ffccaa",        // Suggest widget, hints

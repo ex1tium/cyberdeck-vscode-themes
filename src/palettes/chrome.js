@@ -25,7 +25,7 @@ module.exports = {
   // ==========================================================================
   fg: {
     base: "#d8dce8",        // Cool silver-white
-    muted: "#a0a8b8",       // Muted silver
+    muted: "#90a0b8",       // Steel blue-tinted sidebar text
     dimmed: "#5a6070",      // Steel gray
     bright: "#f0f4ff",      // Bright silver
     soft: "#b8c0d0",        // Soft silver for hints

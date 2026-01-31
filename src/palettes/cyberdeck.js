@@ -25,7 +25,7 @@ module.exports = {
   // ==========================================================================
   fg: {
     base: "#ded2cd",        // Main editor text
-    muted: "#d4cdde",       // Punctuation, secondary text
+    muted: "#b893ce",       // Sidebar text, secondary text (purple-tinted)
     dimmed: "#495495",      // Line numbers, descriptions
     bright: "#ffffff",      // High contrast text
     soft: "#f6c4ff",        // Suggest widget, hints

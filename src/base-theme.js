@@ -354,7 +354,7 @@ module.exports = function buildTheme(palette) {
       "statusBar.debuggingBackground": palette.bg.base,
       "statusBar.debuggingBorder": alpha("#08080f", 0.69),
       "statusBar.debuggingForeground": palette.syntax.builtin,
-      "statusBar.foreground": palette.accent.hotPink,
+      "statusBar.foreground": palette.syntax.function,
       "statusBar.noFolderBackground": palette.bg.base,
       "statusBar.noFolderBorder": palette.bg.base,
       "statusBar.noFolderForeground": palette.fg.bright,
