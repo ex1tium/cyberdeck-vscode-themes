@@ -131,6 +131,11 @@
         "label": "Cyberdeck EVA-01",
         "uiTheme": "vs-dark",
         "path": "./themes/Cyberdeck-EVA-01-color-theme.json"
+      },
+      {
+        "label": "Cyberdeck Deus Ex",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberdeck-Deus-Ex-color-theme.json"
       }
     ]
   },
