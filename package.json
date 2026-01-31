@@ -116,6 +116,11 @@
         "label": "Cyberdeck Monochrome P7",
         "uiTheme": "vs",
         "path": "./themes/Cyberdeck-Monochrome-P7-color-theme.json"
+      },
+      {
+        "label": "Cyberdeck 2077",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberdeck-2077-color-theme.json"
       }
     ]
   },
