@@ -32,6 +32,9 @@ language_demos/**
 # Source files (themes are pre-built)
 src/**
 
+# Screenshots (hosted on GitHub)
+screenshots/**
+
 # Keep these files in the package:
 # - README.md
 # - CHANGELOG.md
@@ -39,5 +42,4 @@ src/**
 # - icon.png
 # - themes/**
 # - docs/** (color palette reference is useful)
-# - screenshots/** (for marketplace display)
 

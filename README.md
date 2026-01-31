@@ -16,53 +16,53 @@
 ### Cyberdeck (Original)
 Deep purple-black backgrounds with vibrant neon pink, cyan, and green accents.
 
-![Cyberdeck Theme](screenshots/cyberdeck.png)
+![Cyberdeck Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck.png)
 
 ### Cyberdeck Midnight
 Cool blue-shifted variant with electric blue tones and cyan accents.
 
-![Cyberdeck Midnight Theme](screenshots/cyberdeck_midnight.png)
+![Cyberdeck Midnight Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_midnight.png)
 
 ### Cyberdeck Arcade
 80s arcade cabinet aesthetic with bold neon on deep purple-black. Electric cyan, hot magenta, and bright yellow evoke CRT glow and coin-op nostalgia.
 
-![Cyberdeck Arcade Theme](screenshots/cyberdeck_arcade.png)
+![Cyberdeck Arcade Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_arcade.png)
 
 ### Cyberdeck Vapor
 Vaporwave lo-fi aesthetic with dark blue-purple backgrounds and soft pastel accents.
 
-![Cyberdeck Vapor Theme](screenshots/cyberdeck_vapor.png)
+![Cyberdeck Vapor Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_vapor.png)
 
 ### Cyberdeck Chrome
 Corporate sterilized theme with cold blue-gray backgrounds and neon accent pops.
 
-![Cyberdeck Chrome Theme](screenshots/cyberdeck_chrome.png)
+![Cyberdeck Chrome Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_chrome.png)
 
 ### Cyberdeck Sunset
 Blade Runner 2049 inspired warm palette with deep burgundy backgrounds and vibrant orange, coral, and gold accents.
 
-![Cyberdeck Sunset Theme](screenshots/cyberdeck_sunset.png)
+![Cyberdeck Sunset Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_sunset.png)
 
 ### Cyberdeck Trix
 Classic hacker aesthetic with green-tinted backgrounds and Matrix green accents.
 
-![Cyberdeck Trix Theme](screenshots/cyberdeck_trix.png)
+![Cyberdeck Trix Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_trix.png)
 
 ### Cyberdeck Sakura
 Japanese cyberpunk aesthetic with cherry blossom pink and jade green accents.
 
-![Cyberdeck Sakura Theme](screenshots/cyberdeck_sakura.png)
+![Cyberdeck Sakura Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_sakura.png)
 
 ### Cyberdeck Dynasty
 Neo-Feudalistic warm lacquer black backgrounds with imperial crimson, jade green, and gold accents inspired by traditional Chinese color palettes.
 
-![Cyberdeck Dynasty Theme](screenshots/cyberdeck_dynasty.png)
+![Cyberdeck Dynasty Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_dynasty.png)
 
 
 ### Cyberdeck Fami (Light)
 Warm cream backgrounds with wine red and controller gold accents inspired by the Famicom. A retro 80s console aesthetic for those who prefer light themes.
 
-![Cyberdeck Fami Theme](screenshots/cyberdeck_fami.png)
+![Cyberdeck Fami Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_fami.png)
 
 ---
 
