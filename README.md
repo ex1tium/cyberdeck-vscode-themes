@@ -2,6 +2,8 @@
 
 > *A neo-retro-futuristic neural interface for the modern code cowboy.*
 
+> **Note:** This release supersedes the earlier [Cyberdeck 2025](https://github.com/ex1tium/cyberdeck-2025_vscode_theme) extension. If you have Cyberdeck 2025 installed, uninstall it and install this version for the latest themes and updates.
+
 [![Version](https://img.shields.io/visual-studio-marketplace/v/ex1tium.cyberdeck?style=flat-square&color=b141f1)](https://marketplace.visualstudio.com/items?itemName=ex1tium.cyberdeck)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/ex1tium.cyberdeck?style=flat-square&color=00ff88)](https://marketplace.visualstudio.com/items?itemName=ex1tium.cyberdeck)
 [![Rating](https://img.shields.io/visual-studio-marketplace/r/ex1tium.cyberdeck?style=flat-square&color=f9c80e)](https://marketplace.visualstudio.com/items?itemName=ex1tium.cyberdeck)
