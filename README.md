@@ -61,10 +61,62 @@ Neo-Feudalistic warm lacquer black backgrounds with imperial crimson, jade green
 ![Cyberdeck Dynasty Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_dynasty.png)
 
 
+### Cyberdeck 2077
+Night City streets with electric yellow, hot magenta, and neon cyan on deep blue-black. 
+
+![Cyberdeck 2077 Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_2077.png)
+
+### Cyberdeck Salvage
+Industrial outlands aesthetic with weathered teal, bronze, and rust tones. Mech salvage yard vibes with warm metallic accents.
+
+![Cyberdeck Salvage Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_salvage.png)
+
+### Cyberdeck EVA-01
+Neon Genesis Evangelion Unit-01 palette with vibrant purple, fluorescent green, and amber accents on deep purple-black backgrounds.
+
+![Cyberdeck EVA-01 Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_eva01.png)
+
+### Cyberdeck Deus Ex
+Human Revolution aesthetic with golden yellow, platinum chrome, and amber on near-true-black. Authentic augmented reality terminal feel.
+
+![Cyberdeck Deus Ex Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_deusex.png)
+
+### Cyberdeck Akira
+Neo-Tokyo 2019 with Akira red, pure neon cyan, and psychic green on blue-black. Full neon pop inspired by the legendary anime film.
+
+![Cyberdeck Akira Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_akira.png)
+
+### Cyberdeck Tron
+True OLED black void with program cyan and CLU orange. Minimalist digital grid aesthetic from Tron Legacy.
+
+![Cyberdeck Tron Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_tron.png)
+
+### Cyberdeck Monochrome Amber
+Classic amber CRT terminal aesthetic. Warm phosphor glow on deep black for vintage computing nostalgia.
+
+![Cyberdeck Monochrome Amber Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_mono_amber.png)
+
+### Cyberdeck Monochrome Green
+Classic green phosphor CRT terminal. The original hacker aesthetic.
+
+![Cyberdeck Monochrome Green Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_mono_green.png)
+
+### Cyberdeck Monochrome White
+Clean white-on-black terminal aesthetic. High contrast monochrome for focused coding sessions.
+
+![Cyberdeck Monochrome White Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_mono_white.png)
+
+## Light Themes
+
 ### Cyberdeck Fami (Light)
 Warm cream backgrounds with wine red and controller gold accents inspired by the Famicom. A retro 80s console aesthetic for those who prefer light themes.
 
 ![Cyberdeck Fami Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_fami.png)
+
+### Cyberdeck Monochrome P7 (Light)
+Vintage P7 phosphor monochrome CRT inspired light theme.
+
+![Cyberdeck Monochrome P7 Theme](https://raw.githubusercontent.com/ex1tium/cyberdeck-vscode-themes/main/screenshots/cyberdeck_p7.png)
 
 ---
 
@@ -112,7 +164,7 @@ Warm cream backgrounds with wine red and controller gold accents inspired by the
 4. Select your variant:
    - Open Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`)
    - Type **"Color Theme"**
-   - Choose from: **Cyberdeck**, **Cyberdeck Midnight**, **Cyberdeck Sunset**, **Cyberdeck Trix**, **Cyberdeck Vapor**, **Cyberdeck Chrome**, **Cyberdeck Sakura**, **Cyberdeck Dynasty**, **Cyberdeck Arcade**, or **Cyberdeck Fami** (light)
+   - Choose from: **Cyberdeck**, **Cyberdeck Midnight**, **Cyberdeck Sunset**, **Cyberdeck Trix**, **Cyberdeck Vapor**, **Cyberdeck Chrome**, **Cyberdeck Sakura**, **Cyberdeck Dynasty**, **Cyberdeck Arcade**, **Cyberdeck 2077**, **Cyberdeck Salvage**, **Cyberdeck EVA-01**, **Cyberdeck Deus Ex**, **Cyberdeck Akira**, **Cyberdeck Tron**, **Cyberdeck Monochrome Amber/Green/White**, **Cyberdeck Fami** (light), or **Cyberdeck Monochrome P7** (light)
 
 ### From VSIX File
 
@@ -127,34 +179,6 @@ code --install-extension cyberdeck-1.0.0.vsix
    - **Windows**: `%USERPROFILE%\.vscode\extensions`
    - **macOS/Linux**: `~/.vscode/extensions`
 3. Reload VS Code
-
----
-
-## 🎨 Color Palettes
-
-### Cyberdeck (Original)
-
-| Color | Hex | Usage |
-|-------|-----|-------|
-| Deep Purple Black | `#130d1a` | Editor background |
-| Warm Off-White | `#ded2cd` | Primary text |
-| Vibrant Purple | `#b141f1` | Accents, numbers |
-| Hot Pink | `#ff2289` | Keywords, constants |
-| Cyan | `#58c7e0` | Variables, types |
-| Neon Green | `#00ff88` | Functions, methods |
-| Golden Yellow | `#f9c80e` | Strings |
-
-### Cyberdeck Midnight
-
-| Color | Hex | Usage |
-|-------|-----|-------|
-| Deep Blue Black | `#0a0e18` | Editor background |
-| Cool Blue White | `#c8d4e8` | Primary text |
-| Electric Blue | `#4090ff` | Accents, info |
-| Magenta | `#c048b0` | Keywords |
-| Ice Cyan | `#60c8e8` | Variables, types |
-| Mint Green | `#50e8a0` | Functions, methods |
-| Warm Yellow | `#e8c050` | Strings |
 
 ---
 
