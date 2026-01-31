@@ -51,13 +51,13 @@ module.exports = function buildTheme(palette) {
       "activityBar.foreground": palette.accent.pink,
       "activityBar.inactiveForeground": palette.accent.primary,
       "activityBarBadge.background": palette.accent.pink,
-      "activityBarBadge.foreground": palette.syntax.function,
+      "activityBarBadge.foreground": palette.bg.darker,
 
       // ----------------------------------------------------------------------
       // BADGE
       // ----------------------------------------------------------------------
       "badge.background": palette.accent.primary,
-      "badge.foreground": "#213939",
+      "badge.foreground": palette.bg.darker,
 
       // ----------------------------------------------------------------------
       // BREADCRUMBS
@@ -172,7 +172,7 @@ module.exports = function buildTheme(palette) {
       // EXTENSION BUTTON
       // ----------------------------------------------------------------------
       "extensionButton.prominentBackground": palette.accent.primary,
-      "extensionButton.prominentForeground": "#e5f5f5",
+      "extensionButton.prominentForeground": palette.bg.darker,
       "extensionButton.prominentHoverBackground": palette.syntax.type,
 
       // ----------------------------------------------------------------------
@@ -183,7 +183,7 @@ module.exports = function buildTheme(palette) {
       "gitDecoration.deletedResourceForeground": alpha(palette.state.errorBg, 0.93),
       "gitDecoration.ignoredResourceForeground": alpha(palette.fg.bright, 0.35),
       "gitDecoration.modifiedResourceForeground": palette.accent.primary,
-      "gitDecoration.untrackedResourceForeground": alpha("#b893ce", 0.93),
+      "gitDecoration.untrackedResourceForeground": palette.fg.soft,
 
       // ----------------------------------------------------------------------
       // INPUT CONTROLS
@@ -276,7 +276,7 @@ module.exports = function buildTheme(palette) {
       "panel.border": palette.accent.hotPink,
       "panelTitle.activeBorder": palette.accent.hotPink,
       "panelTitle.activeForeground": palette.accent.hotPink,
-      "panelTitle.inactiveForeground": "#4c2a72",
+      "panelTitle.inactiveForeground": palette.fg.inactive,
 
       // ----------------------------------------------------------------------
       // PEEK VIEW
@@ -329,7 +329,7 @@ module.exports = function buildTheme(palette) {
       "settings.modifiedItemIndicator": palette.syntax.type,
       "settings.numberInputBackground": palette.bg.darker,
       "settings.numberInputBorder": palette.bg.darker,
-      "settings.numberInputForeground": "#7068b1",
+      "settings.numberInputForeground": palette.fg.muted,
       "settings.textInputBackground": palette.bg.base,
       "settings.textInputBorder": palette.bg.base,
       "settings.textInputForeground": palette.fg.dimmed,
@@ -340,7 +340,7 @@ module.exports = function buildTheme(palette) {
       "sideBar.background": palette.bg.darker,
       "sideBar.border": palette.bg.elevated,
       "sideBar.dropBackground": palette.bg.darker,
-      "sideBar.foreground": alpha("#b893ce", 0.93),
+      "sideBar.foreground": palette.fg.muted,
       "sideBarSectionHeader.background": palette.bg.base,
       "sideBarSectionHeader.border": palette.bg.elevated,
       "sideBarSectionHeader.foreground": palette.accent.secondary,
